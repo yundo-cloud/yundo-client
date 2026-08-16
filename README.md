@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/images/app_icon.png" alt="Yundo" width="112">
+  <img src="./assets/images/logo.svg" alt="Yundo" width="112">
 </p>
 
 <h1 align="center">Yundo</h1>
