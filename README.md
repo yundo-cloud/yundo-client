@@ -1,20 +1,10 @@
 <p align="center">
-  <img src="./assets/images/logo.svg" alt="Yundo" width="112">
+  <img src="./assets/images/yundo-logo.svg" alt="Yundo logo" width="112">
 </p>
 
 <h1 align="center">Yundo</h1>
 
 <p align="center">A simple cross-platform network acceleration client.</p>
-
-<p align="center">
-  <strong>English</strong> |
-  <a href="README_cn.md">简体中文</a> |
-  <a href="README_tw.md">繁體中文</a> |
-  <a href="README_ja.md">日本語</a> |
-  <a href="README_ru.md">Русский</a> |
-  <a href="README_br.md">Português</a> |
-  <a href="README_fa.md">فارسی</a>
-</p>
 
 ## About Yundo
 

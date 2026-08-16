@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Yundo logo</title>
+  <defs>
+    <linearGradient id="yundo-logo-background" x1="512" y1="40" x2="512" y2="984" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7D98E9"/>
+      <stop offset="0.46" stop-color="#4771DE"/>
+      <stop offset="1" stop-color="#174ACB"/>
+    </linearGradient>
+  </defs>
+  <rect width="1024" height="1024" rx="190" fill="url(#yundo-logo-background)"/>
+  <path d="M266.091 300.248L437.238 471.393" stroke="#10245F" stroke-opacity="0.14" stroke-width="122" stroke-linecap="round"/>
+  <path d="M761.908 300.248L590.761 471.393" stroke="#10245F" stroke-opacity="0.14" stroke-width="122" stroke-linecap="round"/>
+  <path d="M512 593.481V811.752" stroke="#10245F" stroke-opacity="0.14" stroke-width="122" stroke-linecap="round"/>
+  <path d="M266.091 300.248L437.238 471.393" stroke="white" stroke-width="104" stroke-linecap="round"/>
+  <path d="M761.908 300.248L590.761 471.393" stroke="white" stroke-width="104" stroke-linecap="round"/>
+  <path d="M512 593.481V811.752" stroke="white" stroke-width="104" stroke-linecap="round"/>
+</svg>
